@@ -1,0 +1,11 @@
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\obj\Debug\netcoreapp2.2\3media.csprojAssemblyReference.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\obj\Debug\netcoreapp2.2\3media.csproj.CoreCompileInputs.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\obj\Debug\netcoreapp2.2\3media.AssemblyInfoInputs.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\obj\Debug\netcoreapp2.2\3media.AssemblyInfo.cs
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\bin\Debug\netcoreapp2.2\3media.deps.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\bin\Debug\netcoreapp2.2\3media.runtimeconfig.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\bin\Debug\netcoreapp2.2\3media.runtimeconfig.dev.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\bin\Debug\netcoreapp2.2\3media.dll
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\bin\Debug\netcoreapp2.2\3media.pdb
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\obj\Debug\netcoreapp2.2\3media.dll
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\3media\obj\Debug\netcoreapp2.2\3media.pdb
