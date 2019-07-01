@@ -1,0 +1,11 @@
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\bin\Debug\netcoreapp2.2\1helloWorld.deps.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\bin\Debug\netcoreapp2.2\1helloWorld.runtimeconfig.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\bin\Debug\netcoreapp2.2\1helloWorld.runtimeconfig.dev.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\bin\Debug\netcoreapp2.2\1helloWorld.dll
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\bin\Debug\netcoreapp2.2\1helloWorld.pdb
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\obj\Debug\netcoreapp2.2\1helloWorld.csprojAssemblyReference.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\obj\Debug\netcoreapp2.2\1helloWorld.csproj.CoreCompileInputs.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\obj\Debug\netcoreapp2.2\1helloWorld.AssemblyInfoInputs.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\obj\Debug\netcoreapp2.2\1helloWorld.AssemblyInfo.cs
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\obj\Debug\netcoreapp2.2\1helloWorld.dll
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\1helloWorld\obj\Debug\netcoreapp2.2\1helloWorld.pdb
