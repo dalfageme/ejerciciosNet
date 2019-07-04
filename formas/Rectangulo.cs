@@ -23,5 +23,12 @@ namespace formas
             );
         }
 
+        public override void Dibujar(){
+            for (int i = 0; i < this.h; i++)
+            {
+                // multiplico por 2 la base para que se adapte más a la realidad
+                System.Console.WriteLine(new string('▓', (int)this.b * 2)); 
+            }
+        }
     }
 }

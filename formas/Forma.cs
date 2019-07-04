@@ -1,6 +1,6 @@
 namespace formas
 {
-    public class Forma
+    public abstract class Forma
     {
         private double perimetro;
         private double area;
@@ -40,5 +40,7 @@ namespace formas
         public override string ToString(){
             return string.Format("Soy una forma de perimetro: {0} y area: {1}", this.perimetro, this.area);
         }
+
+        public abstract void Dibujar();
     }
 }
