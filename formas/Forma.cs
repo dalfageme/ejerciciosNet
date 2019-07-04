@@ -13,6 +13,7 @@ namespace formas
         {
             this.setPerimetro(perimetro);
             this.setArea(area);
+            System.Console.WriteLine("Forma creada");
         }
 
         public double getPerimetro()

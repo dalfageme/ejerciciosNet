@@ -1,0 +1,11 @@
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\bin\Debug\netcoreapp2.2\formas.deps.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\bin\Debug\netcoreapp2.2\formas.runtimeconfig.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\bin\Debug\netcoreapp2.2\formas.runtimeconfig.dev.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\bin\Debug\netcoreapp2.2\formas.dll
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\bin\Debug\netcoreapp2.2\formas.pdb
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\obj\Debug\netcoreapp2.2\formas.csprojAssemblyReference.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\obj\Debug\netcoreapp2.2\formas.csproj.CoreCompileInputs.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\obj\Debug\netcoreapp2.2\formas.AssemblyInfoInputs.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\obj\Debug\netcoreapp2.2\formas.AssemblyInfo.cs
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\obj\Debug\netcoreapp2.2\formas.dll
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\formas\obj\Debug\netcoreapp2.2\formas.pdb
