@@ -12,8 +12,10 @@ namespace formas
             double h = 5;
             // Una variable tipo forma puede contener un rectangulo
             Forma r = new Rectangulo(b, h);
+            Forma c = new Cuadrado(b);
 
             System.Console.WriteLine(r);
+            System.Console.WriteLine(c);
         }
     }
 }
