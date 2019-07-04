@@ -35,5 +35,10 @@ namespace formas
         {
             this.area = area;
         }
+
+        // Sobrescribir método de la clase object con override
+        public override string ToString(){
+            return string.Format("Soy una forma de perimetro: {0} y area: {1}", this.perimetro, this.area);
+        }
     }
 }
