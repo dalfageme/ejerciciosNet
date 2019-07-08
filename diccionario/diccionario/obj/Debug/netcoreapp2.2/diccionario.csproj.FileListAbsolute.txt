@@ -1,0 +1,11 @@
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\bin\Debug\netcoreapp2.2\diccionario.deps.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\bin\Debug\netcoreapp2.2\diccionario.runtimeconfig.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\bin\Debug\netcoreapp2.2\diccionario.runtimeconfig.dev.json
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\bin\Debug\netcoreapp2.2\diccionario.dll
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\bin\Debug\netcoreapp2.2\diccionario.pdb
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\obj\Debug\netcoreapp2.2\diccionario.csprojAssemblyReference.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\obj\Debug\netcoreapp2.2\diccionario.csproj.CoreCompileInputs.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\obj\Debug\netcoreapp2.2\diccionario.AssemblyInfoInputs.cache
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\obj\Debug\netcoreapp2.2\diccionario.AssemblyInfo.cs
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\obj\Debug\netcoreapp2.2\diccionario.dll
+D:\documentos\geekshubs\19GTT\clase\ejerciciosNet\diccionario\diccionario\obj\Debug\netcoreapp2.2\diccionario.pdb
